@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Tetris-ESP32-micropython
-=======
 # Tetris - ESP32
 
 El clasico juego de tetris con **ESP32** corriendo en **Micropython**
@@ -18,4 +15,4 @@ El clasico juego de tetris con **ESP32** corriendo en **Micropython**
 # Enlaces de interes 
 - Micropython : https://micropython.org/download/ESP32_GENERIC/ 
 - Codigo de la pantalla oled SH1106: https://github.com/robert-hh/SH1106
->>>>>>> b903267 (actualización del readme)
+
