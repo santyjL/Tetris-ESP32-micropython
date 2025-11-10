@@ -2,6 +2,8 @@
 
 El clasico juego de tetris con **ESP32** corriendo en **Micropython**
 
+![circuito de prototipo tetris en esp32](./tetris_esp32.jpg)
+
 ---
 ### Componentes: 
 
